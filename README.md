@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ade-ai
-- 👀 I’m an aspiring AI/ML expert interested in financial engineering
-- 🌱 I’m currently learning the foundations of ML
+- 👀 I’m an aspiring AI/ML expert interested in financial engineering for Energy Markets
+- 🌱 Currently learning the foundations of ML
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy the boring stuff!
 
