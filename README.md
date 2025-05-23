@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsakeAde-ai
+- 👋 Hi, I’m @MrsO-ai
 - 👀 I’m an aspiring AI/ML expert interested in financial engineering
 - 🌱 I’m currently learning the foundations of ML
 - 😄 Pronouns: She/Her
