@@ -3,6 +3,7 @@
 - 🌱 Currently learning the foundations of ML
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy the boring stuff!
+- ☺️ Products I'm Building - DevCohort & NeoThesis
 
 <!---
 AsakeAde-ai/AsakeAde-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
